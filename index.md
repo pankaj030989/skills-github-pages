@@ -1,4 +1,8 @@
 ---
+title: "Day-1"
+date: 2026-02-05
+---
+---
 title: Welcome to my blog!
 ---
 
